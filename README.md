@@ -19,7 +19,7 @@ Number guessing game where you speak your guess into the microphone using the sp
     <img src="./img/19_preview.png" alt="Original preview">
 </div>
 
-<!-- ## My solution preview
+## My solution preview
 
  <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
     <img style="margin-bottom:10px" src="./img/my-solution-preview.png" alt="My solution preview">
@@ -27,7 +27,7 @@ Number guessing game where you speak your guess into the microphone using the sp
 
 ## My solution features
 
-- same as an original -->
+- same as an original
 
 # Author
 
