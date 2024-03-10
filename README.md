@@ -20,8 +20,7 @@ Landing page that counts down from the current date to the next new year
     <img src="./img/18_preview.png" alt="Original preview">
 </div>
 
-
-<!-- ## My solution preview
+## My solution preview
 
  <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
     <img style="margin-bottom:10px" src="./img/my-solution-preview.png" alt="My solution preview">
@@ -29,8 +28,7 @@ Landing page that counts down from the current date to the next new year
 
 ## My solution features
 
-- custom UI/UX design
-- the rest is same as an original -->
+- same as an original
 
 # Author
 
