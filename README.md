@@ -22,9 +22,7 @@ Landing page that counts down from the current date to the next new year
 
 ## My solution preview
 
- <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
-    <img style="margin-bottom:10px" src="./img/my-solution-preview.png" alt="My solution preview">
-</div>
+ 
 
 ## My solution features
 
