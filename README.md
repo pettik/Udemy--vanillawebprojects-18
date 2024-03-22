@@ -31,7 +31,7 @@ Landing page that counts down from the current date to the next new year
 
 - same as an original
 
-- # 18th of 20 Vanilla Javascript project
+# 18th of 20 Vanilla Javascript project
 
 | ID | Project | URL Link |
 |---|---|---|
